@@ -14,4 +14,12 @@ h3{
 }
 ul{
     color: blueviolet;
+    font-size: 20px;
+}
+ol{
+    color: orangered;
+    font-size: large;
+}
+img{
+    width: fit-content;
 }
